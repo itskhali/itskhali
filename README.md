@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khali
-- 🌱 I’m currently learning how to program in html, japascript, python, css
+- 🌱 I’m currently learning how to program in html, javascript, python, css
 -
 
 <!---
