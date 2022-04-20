@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itskhali
+- 👋 Hi, I’m Khali
 - 🌱 I’m currently learning how to program in html, japascript, python, css
 -
 
